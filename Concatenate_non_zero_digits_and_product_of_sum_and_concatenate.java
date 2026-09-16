@@ -11,5 +11,6 @@ public class Concatenate_non_zero_digits_and_product_of_sum_and_concatenate{
             }
         }
         System.out.println(x*s);
+        sc.close();
     }
 }

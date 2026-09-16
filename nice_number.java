@@ -24,5 +24,7 @@ public class nice_number{
         else{
             System.out.println("The given number is  a nice number");
         }
+        sc.close();
+
     }
 }
